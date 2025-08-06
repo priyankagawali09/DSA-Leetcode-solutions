@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/priyankagawali09/DSA-Leetcode-solutions/tree/master/0021-merge-two-sorted-lists) |
+| [0050-powx-n](https://github.com/priyankagawali09/DSA-Leetcode-solutions/tree/master/0050-powx-n) |
 ## Array
 |  |
 | ------- |
@@ -27,4 +28,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/priyankagawali09/DSA-Leetcode-solutions/tree/master/0020-valid-parentheses) |
+## Math
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/priyankagawali09/DSA-Leetcode-solutions/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
