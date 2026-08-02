@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0050-powx-n](https://github.com/priyankagawali09/DSA-Leetcode-solutions/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/priyankagawali09/DSA-Leetcode-solutions/tree/master/0066-plus-one) |
+| [0172-factorial-trailing-zeroes](https://github.com/priyankagawali09/DSA-Leetcode-solutions/tree/main/0172-factorial-trailing-zeroes/) | Medium |
 | [0509-fibonacci-number](https://github.com/priyankagawali09/DSA-Leetcode-solutions/tree/main/0509-fibonacci-number/) | Easy |
 ## Database
 | Problem Name | Difficulty |
