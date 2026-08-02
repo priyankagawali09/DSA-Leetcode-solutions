@@ -25,10 +25,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/priyankagawali09/DSA-Leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/priyankagawali09/DSA-Leetcode-solutions/tree/master/0027-remove-element) |
+| [0344-reverse-string](https://github.com/priyankagawali09/DSA-Leetcode-solutions/tree/main/0344-reverse-string/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/priyankagawali09/DSA-Leetcode-solutions/tree/master/0020-valid-parentheses) |
+| [0344-reverse-string](https://github.com/priyankagawali09/DSA-Leetcode-solutions/tree/main/0344-reverse-string/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
