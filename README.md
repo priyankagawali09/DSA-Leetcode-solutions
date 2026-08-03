@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/priyankagawali09/DSA-Leetcode-solutions/tree/main/0053-maximum-subarray/) | Medium |
 | [0066-plus-one](https://github.com/priyankagawali09/DSA-Leetcode-solutions/tree/master/0066-plus-one) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/priyankagawali09/DSA-Leetcode-solutions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| [0303-range-sum-query-immutable](https://github.com/priyankagawali09/DSA-Leetcode-solutions/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/priyankagawali09/DSA-Leetcode-solutions/tree/main/1480-running-sum-of-1d-array/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -65,9 +66,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0303-range-sum-query-immutable](https://github.com/priyankagawali09/DSA-Leetcode-solutions/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/priyankagawali09/DSA-Leetcode-solutions/tree/main/1480-running-sum-of-1d-array/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0231-power-of-two](https://github.com/priyankagawali09/DSA-Leetcode-solutions/tree/main/0231-power-of-two/) | Easy |
+## Design
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0303-range-sum-query-immutable](https://github.com/priyankagawali09/DSA-Leetcode-solutions/tree/main/0303-range-sum-query-immutable/) | Easy |
 <!---LeetCode Topics End-->
