@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/priyankagawali09/DSA-Leetcode-solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0050-powx-n](https://github.com/priyankagawali09/DSA-Leetcode-solutions/tree/master/0050-powx-n) |
+| [0231-power-of-two](https://github.com/priyankagawali09/DSA-Leetcode-solutions/tree/main/0231-power-of-two/) | Easy |
 | [0509-fibonacci-number](https://github.com/priyankagawali09/DSA-Leetcode-solutions/tree/main/0509-fibonacci-number/) | Easy |
 ## Array
 | Problem Name | Difficulty |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/priyankagawali09/DSA-Leetcode-solutions/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/priyankagawali09/DSA-Leetcode-solutions/tree/master/0066-plus-one) |
 | [0172-factorial-trailing-zeroes](https://github.com/priyankagawali09/DSA-Leetcode-solutions/tree/main/0172-factorial-trailing-zeroes/) | Medium |
+| [0231-power-of-two](https://github.com/priyankagawali09/DSA-Leetcode-solutions/tree/main/0231-power-of-two/) | Easy |
 | [0509-fibonacci-number](https://github.com/priyankagawali09/DSA-Leetcode-solutions/tree/main/0509-fibonacci-number/) | Easy |
 ## Database
 | Problem Name | Difficulty |
@@ -64,4 +66,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/priyankagawali09/DSA-Leetcode-solutions/tree/main/1480-running-sum-of-1d-array/) | Easy |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0231-power-of-two](https://github.com/priyankagawali09/DSA-Leetcode-solutions/tree/main/0231-power-of-two/) | Easy |
 <!---LeetCode Topics End-->
