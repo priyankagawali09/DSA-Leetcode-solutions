@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/priyankagawali09/DSA-Leetcode-solutions/tree/main/0344-reverse-string/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/priyankagawali09/DSA-Leetcode-solutions/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0567-permutation-in-string](https://github.com/priyankagawali09/DSA-Leetcode-solutions/tree/main/0567-permutation-in-string/) | Medium |
+| [0784-letter-case-permutation](https://github.com/priyankagawali09/DSA-Leetcode-solutions/tree/main/0784-letter-case-permutation/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0231-power-of-two](https://github.com/priyankagawali09/DSA-Leetcode-solutions/tree/main/0231-power-of-two/) | Easy |
+| [0784-letter-case-permutation](https://github.com/priyankagawali09/DSA-Leetcode-solutions/tree/main/0784-letter-case-permutation/) | Medium |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -100,4 +102,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0242-valid-anagram](https://github.com/priyankagawali09/DSA-Leetcode-solutions/tree/main/0242-valid-anagram/) | Easy |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0784-letter-case-permutation](https://github.com/priyankagawali09/DSA-Leetcode-solutions/tree/main/0784-letter-case-permutation/) | Medium |
 <!---LeetCode Topics End-->
