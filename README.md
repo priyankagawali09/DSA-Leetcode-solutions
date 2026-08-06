@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/priyankagawali09/DSA-Leetcode-solutions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0238-product-of-array-except-self](https://github.com/priyankagawali09/DSA-Leetcode-solutions/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0303-range-sum-query-immutable](https://github.com/priyankagawali09/DSA-Leetcode-solutions/tree/main/0303-range-sum-query-immutable/) | Easy |
+| [0442-find-all-duplicates-in-an-array](https://github.com/priyankagawali09/DSA-Leetcode-solutions/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/priyankagawali09/DSA-Leetcode-solutions/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/priyankagawali09/DSA-Leetcode-solutions/tree/main/1480-running-sum-of-1d-array/) | Easy |
 ## Two Pointers
@@ -101,11 +102,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/priyankagawali09/DSA-Leetcode-solutions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0242-valid-anagram](https://github.com/priyankagawali09/DSA-Leetcode-solutions/tree/main/0242-valid-anagram/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/priyankagawali09/DSA-Leetcode-solutions/tree/main/0424-longest-repeating-character-replacement/) | Medium |
+| [0442-find-all-duplicates-in-an-array](https://github.com/priyankagawali09/DSA-Leetcode-solutions/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0567-permutation-in-string](https://github.com/priyankagawali09/DSA-Leetcode-solutions/tree/main/0567-permutation-in-string/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0242-valid-anagram](https://github.com/priyankagawali09/DSA-Leetcode-solutions/tree/main/0242-valid-anagram/) | Easy |
+| [0442-find-all-duplicates-in-an-array](https://github.com/priyankagawali09/DSA-Leetcode-solutions/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
