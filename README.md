@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/priyankagawali09/DSA-Leetcode-solutions/tree/main/0053-maximum-subarray/) | Medium |
 | [0066-plus-one](https://github.com/priyankagawali09/DSA-Leetcode-solutions/tree/master/0066-plus-one) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/priyankagawali09/DSA-Leetcode-solutions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| [0238-product-of-array-except-self](https://github.com/priyankagawali09/DSA-Leetcode-solutions/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0303-range-sum-query-immutable](https://github.com/priyankagawali09/DSA-Leetcode-solutions/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0643-maximum-average-subarray-i](https://github.com/priyankagawali09/DSA-Leetcode-solutions/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/priyankagawali09/DSA-Leetcode-solutions/tree/main/1480-running-sum-of-1d-array/) | Easy |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0238-product-of-array-except-self](https://github.com/priyankagawali09/DSA-Leetcode-solutions/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0303-range-sum-query-immutable](https://github.com/priyankagawali09/DSA-Leetcode-solutions/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/priyankagawali09/DSA-Leetcode-solutions/tree/main/1480-running-sum-of-1d-array/) | Easy |
 ## Bit Manipulation
