@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0009-palindrome-number](https://github.com/priyankagawali09/DSA-Leetcode-solutions/tree/main/0009-palindrome-number/) | Easy |
 | [0050-powx-n](https://github.com/priyankagawali09/DSA-Leetcode-solutions/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/priyankagawali09/DSA-Leetcode-solutions/tree/master/0066-plus-one) |
 | [0172-factorial-trailing-zeroes](https://github.com/priyankagawali09/DSA-Leetcode-solutions/tree/main/0172-factorial-trailing-zeroes/) | Medium |
