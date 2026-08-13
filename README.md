@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/priyankagawali09/DSA-Leetcode-solutions/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/priyankagawali09/DSA-Leetcode-solutions/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0704-binary-search](https://github.com/priyankagawali09/DSA-Leetcode-solutions/tree/main/0704-binary-search/) | Easy |
+| [0875-koko-eating-bananas](https://github.com/priyankagawali09/DSA-Leetcode-solutions/tree/main/0875-koko-eating-bananas/) | Medium |
 | [1480-running-sum-of-1d-array](https://github.com/priyankagawali09/DSA-Leetcode-solutions/tree/main/1480-running-sum-of-1d-array/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/priyankagawali09/DSA-Leetcode-solutions/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/priyankagawali09/DSA-Leetcode-solutions/tree/main/0069-sqrtx/) | Easy |
 | [0704-binary-search](https://github.com/priyankagawali09/DSA-Leetcode-solutions/tree/main/0704-binary-search/) | Easy |
+| [0875-koko-eating-bananas](https://github.com/priyankagawali09/DSA-Leetcode-solutions/tree/main/0875-koko-eating-bananas/) | Medium |
 ## Newton's Method
 | Problem Name | Difficulty |
 | ------- | ------- |
