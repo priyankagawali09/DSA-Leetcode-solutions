@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/priyankagawali09/DSA-Leetcode-solutions/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0442-find-all-duplicates-in-an-array](https://github.com/priyankagawali09/DSA-Leetcode-solutions/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/priyankagawali09/DSA-Leetcode-solutions/tree/main/0643-maximum-average-subarray-i/) | Easy |
+| [0704-binary-search](https://github.com/priyankagawali09/DSA-Leetcode-solutions/tree/main/0704-binary-search/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/priyankagawali09/DSA-Leetcode-solutions/tree/main/1480-running-sum-of-1d-array/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -116,4 +117,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0784-letter-case-permutation](https://github.com/priyankagawali09/DSA-Leetcode-solutions/tree/main/0784-letter-case-permutation/) | Medium |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0704-binary-search](https://github.com/priyankagawali09/DSA-Leetcode-solutions/tree/main/0704-binary-search/) | Easy |
 <!---LeetCode Topics End-->
